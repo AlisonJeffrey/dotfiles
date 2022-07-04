@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alisonnwebb@hotmail.com
+	name = Alison Jeffrey
